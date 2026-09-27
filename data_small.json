@@ -1,0 +1,34 @@
+[
+    {
+      "id": "NAND403-001",
+      "nom": "Chaise en bois 3D",
+      "categorie": "Mobilier",
+      "format": "FBX",
+      "polygones": 1450,
+      "statut": "Disponible"
+    },
+    {
+      "id": "NAND403-002",
+      "nom": "Lampe de rue rustique",
+      "categorie": "Décors urbains",
+      "format": "OBJ",
+      "polygones": 3200,
+      "statut": "En révision"
+    },
+    {
+      "id": "NAND403-003",
+      "nom": "Textures de roche moussue",
+      "categorie": "Matériaux",
+      "format": "PNG",
+      "polygones": 0,
+      "statut": "Disponible"
+    },
+    {
+      "id": "NAND403-004",
+      "nom": "Personnage - Robot Soldat",
+      "categorie": "Personnages",
+      "format": "GLTF",
+      "polygones": 28500,
+      "statut": "Archivé"
+    }
+  ]
